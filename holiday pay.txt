@@ -3,3 +3,6 @@ workers compestion
 insurance bills
 hourly rates
 bonuses
+medical bills
+staff buses
+beds
