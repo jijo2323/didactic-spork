@@ -1,3 +1,6 @@
 hi this is devops training for Jijo
 
 this line is added from local repo
+
+wwe apply git pull when working on our locol repo
+for example moving codes editing etc
