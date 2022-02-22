@@ -17,5 +17,10 @@ pipeline{
                 echo 'stage3'
             }
         }
+        stage('stage_label4'){
+            steps{
+                echo 'stage4'
+            }
+        }
     }
 }
